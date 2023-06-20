@@ -1,6 +1,4 @@
-Aqui está a versão atualizada do README, com o nome do projeto alterado para "AsNoTracking" e o nome do banco de dados definido como "Produtos":
-
-# AsNoTracking
+# Benchmark de uso do AsNoTracking() no Entity Framework
 
 Este é o projeto AsNoTracking, que demonstra o uso do método AsNoTracking() do Entity Framework em consultas.
 
